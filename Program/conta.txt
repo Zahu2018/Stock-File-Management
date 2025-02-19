@@ -1,0 +1,438 @@
+﻿1. Fisa limita de consum
+2. Bonul de consum
+3. Avizul de insotire a marfii
+4. Nota intrare receptie si constatare diferente
+
+----------------------
+1. FISA LIMITA DE CONSUM
+    
+    1.1 Serveste ca:
+        – document de stabilire a cantităţii limită dintr-un material
+          sau pentru mai multe materiale necesare executării unui 
+          produs (comandă) sau unei lucrări;
+        – document de eliberare succesivă a aceluiaşi fel de material
+          pentru acelaşi produs (comandă sau lucrare);
+        – document justificativ de scădere din gestiune;
+        – document de stabilire a economiilor sau depăşirilor de materiale;
+        – document justificativ de înregistrare în contabilitate.
+    
+    1.2 Circula la:
+        – la persoanele autorizate să semneze pentru acordarea vizei de
+          necesitate (ambele exemplare);
+        – la persoanele autorizate să aprobe înlocuirea, suplimentarea sau
+          diminuarea cantităţilor de materiale cu ocazia modificării programului
+          de producţie (ambele exemplare);
+        – la magazia de materiale, pentru înscrierea cantităţilor eliberate,
+          semnându-se de către delegatul care primeşte materialele 
+          (exemplarul 1);
+        – la secţie, atelier etc. pentru a fi folosite ca cerere de materiale şi
+          situaţie a eliberărilor în cadrul cantităţii limită, semnându-se de
+          gestionarul magaziei predătoare (exemplarul 2);
+        – la compartimentul financiar-contabil pentru înregistrare în 
+          contabilitatea sintetică şi analitică (ambele exemplare). Primul 
+          exemplar se utilizează ca document de scădere din gestiune, iar al 
+          doilea exemplar pentru înregistrarea în contabilitate a costurilor.
+    
+    1.3 Continutul minimal obligatoriu:
+        – denumirea, numărul şi data (luna, anul) întocmirii formularului;
+        – denumirea unităţii;
+        – predătorul;
+        – primitorul;
+        – numărul comenzii/codul produsului;
+        – contul debitor şi contul creditor, după caz;
+        – denumirea materialului (inclusiv sortimentul, marca, profilul, dimensiunea);
+        - U.M; cantitatea eliberată;
+        – semnătura de predare – primire;
+          şi respectiv, după caz:
+        * preţul unitar; valoarea;
+        * producţia (U/M, planificat, realizat), denumirea produsului, lucrarea, codul;
+        * cantitate necesară, cantitate înlocuită;
+        * şeful de compartiment;
+        * recalculat în baza producţiei realizate;
+        * data eliberării, cantitatea cerută, cantităţi eliberate (parţial, cumulat);
+        * cantitatea conform producţiei realizate; cantitate consumată;
+        * economii (-) depăşiri (+) cantitative; valoarea economiilor sau depăşirilor.
+
+    1.4 Arhivare
+        - Se arhivează la compartimentul financiar-contabil (ambele exemplare).
+
+    1.5 Utilizare
+        * Se întocmeşte în două exemplare, la începutul lunii sau lansării produsului 
+          (comenzii) sau lucrării, de compartimentul de planificare (tehnic) sau de 
+          lansare, pe baza programului de producţie şi a consumurilor normate.
+        * În cazul fişei limită de consum, dacă în cursul lunii se produc modificări
+          în programul de producţie, compartimentul de planificare (tehnic) sau de 
+          lansare modifică, în mod corespunzător, cantitatea limită de material 
+          (col. “i”), înscriind în col. “d” cantitatea care se suplimentează sau se scade.
+        * Dacă nu se mai foloseşte materialul iniţial, se recalculează cantitatea limită
+          corespunzătoare producţiei executate până în acel moment, emiţându-se o 
+          nouă fişă.
+        * În cazul când în cursul lunii se fac înlocuiri întâmplătoare cu alte materiale 
+          pentru care se întocmesc bonuri de consum distincte, se corectează cantitatea 
+          limită (col. “i”), înscriindu-se în coloanele respective (col. “g” şi “h”) 
+          numărul bonului de consum şi cantitatea eliberată.
+        * Eliberările de materiale se înregistrează în fişele de magazie la terminarea 
+          executării produsului, lucrării sau la închiderea comenzii 
+          (dacă acestea se termină în cursul lunii) sau la sfârşitul lunii.
+        * Valoarea economiilor sau a depăşirilor de materiale se completează la unităţile 
+          unde nu există producţie neterminată.
+        * În cazul în care, în cursul lunii se fac înlocuiri întâmplătoare cu alte
+          materiale decât cele stabilite la întocmirea documentului, coloanele rezervate
+          materialului înlocuit se barează. De asemenea, în rubrica “Diminuare” se 
+          înscrie cantitatea cu care se corectează cantitatea limită iniţială, iar 
+          pentru materialul înlocuitor se utilizează un alt grup de coloane libere.
+
+
+2. BONUL DE CONSUM
+
+    2.1 Serveste ca:
+        * document de eliberare din magazie pentru consumul materialelor;
+        * document justificativ de scadere din gestiune;
+        * document justificativ de inregistrare in evidenta magaziei si in
+          contabilitate.		
+    2.2 Circula la:
+        * la persoanele autorizate sa semneze pentru acordarea vizei de
+          necesitate (ambele exemplare);
+        * la persoanele autorizate sa aprobe folosirea altor materiale, in cazul
+          materialelor inlocuitoare;
+        * la magazia de materiale, pentru eliberarea cantitatilor prevazute,
+          semnandu-se de predare de catre gestionar si de primire de catre 
+          delegatul care primeste materialele (ambele exemplare);
+        * la compartimentul financiar-contabil, pentru efectuarea 
+          inregistrarilor in contabilitatea sintetica si analitica (ambele 
+          exemplare).
+    2.3 Continutul minimal obligatoriu:
+        * denumirea unitatii;
+        * denumirea formularului;
+        * produs/lucrare (comanda); norma; bucati lansate;
+        * numarul documentului; data eliberarii (ziua, luna, anul); 
+        * numarul comenzii;
+        * denumirea materialului (inclusiv sortimentul, marca, profilul,
+          dimensiunea); cantitatea necesara; U/M; cantitatea eliberata; 
+        * pretul unitar; valoarea;
+        * data si semnatura gestionarului si a primitorului.
+    2.4 Arhivare
+        * compartimentul financiar-contabil
+    2.5 Utilizare
+        * Pe masura lansarii, respectiv eliberarii materialelor din magazie
+          pentru consum, de compartimentul care efectueaza lansarea, pe baza
+          programului de productie si a consumurilor normate, sau de alte
+          compartimente ale unitatii, care solicita materiale pentru a fi consumate.
+        * Bon de consum se poate intocmi intr-un exemplar in conditiile
+          utilizarii tehnicii de calcul.
+        * Bon de consum (colectiv), in principiu, se intocmeste pe formulare
+          separate pentru materialele din cadrul aceluiasi cont de materiale, 
+          loc de depozitare si loc de consum.
+        * In situatia cand materialul solicitat lipseste din depozit, se
+          procedeaza in felul urmator: 
+        * in cazul intocmirii unui bon de consum se completeaza rubrica cu
+          denumirea materialului inlocuitor, dupa ce, in prealabil, pe verso
+          formularului se obtin semnaturile persoanelor autorizate sa aprobe
+          folosirea altor materiale decat cele prevazute in consumurile normate;
+        * in cazul intocmirii unui bon de consum (colectiv) se taie cu o linie 
+          denumirea materialului inlocuit si se semneaza de aprobare a inlocuirii,
+          in dreptul randului respectiv. Dupa inscrierea denumirii materialului
+          inlocuitor se intocmeste un bon de consum separat, aplicandu-se un semn
+          distinctiv sau materialul inlocuitor se inscrie pe un rand liber in
+          cadrul aceluiasi bon de consum.
+        * La intocmirea unui bon de consum, coloanele "Unitatea de masura" si 
+          "Cantitatea necesara" de pe randul 2 se completeaza in cazul cand se
+          solicita si se elibereaza din magazie materiale cu doua unitati de
+          masura.
+        * Daca operatiunile de predare-primire a materialelor nu pot fi 
+          suspendate in timpul inventarierii magaziei de materiale, comisia de 
+          inventariere trebuie sa inscrie pe documentul respectiv mentiunea 
+          "predat in timpul inventarierii".
+    
+3. AVIZUL
+
+    2.1 Serveste ca:
+    2.2 Circula la:
+    2.3 Continutul minimal obligatoriu:
+    2.4 Arhivare
+    2.5 Utilizare
+    -----------------------------
+    
+    CONTA
+
+[FISA DE MAGAZIE]
+(Cod 14-3-8 si Cod 14-3-8/a)
+
+DEFINITIE:
+    - document de evidenta la locul de depozitare a intrarilor, iesirilor si stocurilor bunurilor, cu una sau cu doua unitati de masura, dupa caz;
+    - document de contabilitate analitica in cadrul metodei operativ-contabile (pe solduri);
+    - sursa de informatii pentru controlul operativ curent si contabil al stocurilor de valori materiale.
+
+OPEREAZA:
+    - compartimentul financiar-contabil la deschiderea fisei (datele din antet) si la verificarea inregistrarilor (data si semnatura de control), in coloana "Data si semnatura de control" semneaza si organul de control financiar cu ocazia verificarii gestiunii.
+    - gestionar sau persoana desemnata, care completeaza coloanele privitoare la intrari, iesiri si stoc.
+
+
+
+ELEMENTE OBLIGATORII:
+    - denumirea formularului si nr paginii
+    - denumirea unitatii
+    - gestiunea-magazia
+    - materialul (produsul), sortimentul, calitatea, marca, profilul, dimensiunea (caracteristici)
+    - unitatea de masura; pret unitar
+    - data (zi, luna, an) 
+    - numarul si felul documentului
+    - intrari
+    - iesiri
+    - stoc
+    - data si semnatura de control
+    
+[NIR]
+
+
+Nota de receptie si constatare de diferente este numele corect pentru bine cunoscutul NIR si este un document pt receptia bunurilor aprovizionate si in acelasi timp este un document justificativ pentru incarcarea in gestiune.
+Document ce se intocmeste in momentul receptionarii marfurilor la depozit, de catre comisia de receptie si gestionar
+Documentul cuprinde date privind actele insotitoare, denumirea materialelor, ambalajelor si a marfurilor selectionate, procentul si valoarea rabatului comercial.
+- Document pt. receptia bunurilor aporovizionate
+- Document justificativ pt. incarcare in gestiune
+- Documentu justificativ de inregistrare in contabilitate
+
+Document de receptie obligatoriu in cazul:
+    - Bunurilor materiale cuprinse intr-o factura sau aviz de insotire a marfii, care fac parte din gestiuni diferite
+    - Bunurilor material primite spre prelucrare, in custodie sau in pastrare
+    - Bunurilor materiale care sosesc neinsotite de documente de livrare
+    - Bunurilor materiale care prezinta diferente la receptie si bunurilor materiale procurate de la persoane fizice.
+
+
+NIR - ul se intocmeste in 2 exemplare la locul de depozitare sau in unitatea cu amanuntul, dupa caz, pe masura efectuarii receptiei. In situatia in care la receptie se constata diferente, Nota de receptie si constatare de diferente se intocmeste in trei exemplare de catre comisia de receptie legal constituita.
+
+In cazul in care bunurile materiale sosesc in transe, se intocmeste cate un formular pentru fiecare transa, care se anexeaza apoi la factura sau la avizul de insotire a marfii.
+
+Datele de pe verso formularului se completeaza numai atunci cand se constata diferente la receptie.
+
+Continut Minim Nota de receptie si constatare de diferente (NIR - Nota de Intrare Receptie)
+
+A). In cazul in care bunurile sunt incarcate intr-o gestiune tip depozit :
+        denumirea unitatii
+        denumirea, numarul si data intocmirii formularului
+        numarul si seria facturii/avizului de insotire a marfii receptionate
+        nr curent; 
+        denumirea bunurilor receptionate; 
+        U/M; 
+        cantitatea conform docuemtelor insotitoare;
+        cantitatea receptionata; 
+        pretul unitar de achizitie si valoarea
+        numele, prenumele si semnatura celor care fac receptia
+B). n cazul in care bunurile sunt incarcate intr-o gestiune tip magazin: - informatiile mentionate la litera a) mai putin pretul unitar si valoarea
+        pretul de achizitie al cantitatii receptionate
+        adaosul comercial unitar si total
+        pretul de achizitie unitar plus adaosul comercial
+        valoarea la pret de vanzare, inclusiv tva
+
+
+    
+ [BON DE CONSUM]   
+ 
+ DEFINITIE:
+    - document contabil justificativ care se utilizeaza in momentul in care se elibereaza materialele din magazie.
+    - Scopul eliberarii materialelor din magazie a materialelor este urmatorul :
+        - acordare de produse salariatilor ca avantaj in natura;
+        - pentru actiuni de protocol;
+        - pentru necesitati de productie
+        
+SERVESTE CA:
+– document de eliberare din magazie a materialelor;
+– document justificativ de scădere din gestiune;
+– document justificativ de înregistrare în contabilitate.
+Se întocmeşte pe măsura eliberării materialelor din magazie pentru consum.
+Nu se intocmeste bon de consum atunci cand trimiti marfa cu aviz de insotire a marfii, sau pe baza de factura sau atunci cand faci transferi dintr-o gestiune in alta. 
+       
+ OPEREAZA:
+    - gestionarul
+    
+ ELEMENTE OBLIGATORII:
+ 
+[BON DE PREDARE, TRANSFER, RESTITUIRE]
+ 
+ – document justificativ de înregistrare în contabilitate.
+
+În situaţia în care se foloseşte ca bon de predare la magazie a produselor finite, materialelor refolosibile, semifabricatelor, materialelor nefolosite se întocmeşte pe măsura predării acestora la magazie, de către secţie, atelier etc.
+
+În cazul utilizării ca bon de transfer între două gestiuni aflate în incinta entităţii, bonul de predare, transfer, restituire se întocmeşte pe măsură ce se efectuează transferul. Transferul se efectuează numai între gestiuni din incinta aceleiaşi entităţi. În cazul gestiunilor dispersate teritorial se întocmeşte Aviz de însoţire a mărfii (cod 14-3-6A).
+
+În cazul utilizării ca bon de restituire se întocmeşte pe măsura restituirii la magazie a valorilor materiale.
+
+Bonul de predare, transfer, restituire se utilizează pentru:  
+
+    produse finite
+    materiale refolosibile
+    material semifabricate
+    materiale nefolosite
+
+Desi legislatia nu prevede un circuit anume al bonului, de regula, in practica,  bonul de predare, transfer, restituire circulă la:
+
+    magazia de materiale refolosibile, semnându-se de predare de către delegatul secţiei, atelierului şi de primire în gestiune de către gestionar (ambele exemplare);
+    compartimentul financiar-contabil sau persoana care conduce evidenţa, pentru efectuarea înregistrărilor în contabilitatea sintetică şi analitică .
+
+Bonul de predare, transfer, restituire se arhivează la compartimentul financiar-contabil .
+
+[DISPOZITIA DE LIVRARE]
+Dispozitia de livrare si avizul de insotire a marfii sunt doua documente destul de apropiate ca si continut.
+
+Cand se utilizeaza fiecare?
+
+Dispozitia de livrare se utilizeaza la eliberarea din magazie a:
+
+    produselor
+    marfurilor sau
+    a altor valori materiale destinate vanzarii,
+    a bunurilor cedate cu titlu gratuit sau acordate pentru stimularea vanzarii .
+
+Avizul de insotire a marfii se utilizeaza in principal pentru insotirea marfii pe timpul transportului.
+
+Dispozitia de livrare este un document de baza pentru intocmirea avizului de insotire a marfii care la randul sau este un document de baza pentru intocmirea facturii :
+
+Dispozitie de livrare -> Aviz de insotire a marfii -> Factura.
+
+In ce priveste avizul , pe langa utilitatea de insotire a marfii pe timpul transportului, mai serveste si ca :
+
+    dispozitie de transfer a valorilor materiale de la o gestiune la alta dispersate teritorial;
+    document de descarcare din gestiune a bunurilor cedate cu titlu gratuit.
+
+Avizul de însotire a marfii se întocmeste de catre entitile care nu au posibilitatea întocmirii facturii în momentul livrarii produselor, marfurilor sau altor valori materiale, precum si in alte situatii stabilite prin procedurile proprii ale entitii.
+
+Atat avizul cat si dispozitia de livrare sunt documente pe baza carora se poate efectua descarcarea de gestiune.
+ 
+ [AVIZUL DE INSOTIRE A MARFII]
+ Avizul de însoţire a mărfii serveşte ca:
+
+– document de însoţire a mărfii pe timpul transportului, după caz;
+
+– document ce stă la baza întocmirii facturii, după caz;
+– dispoziţie de transfer al valorilor materiale de la o gestiune la alta, dispersate teritorial, ale aceleiaşi entităţi;
+
+– document de primire în gestiune, după caz;
+
+– document de descărcare din gestiune a bunurilor cedate cu titlu gratuit.
+
+Avizul de însoţire a mărfii se întocmeşte de către entităţile care nu au posibilitatea întocmirii facturii în momentul livrării produselor, mărfurilor sau altor valori materiale, precum şi în alte situaţii stabilite prin procedurile proprii ale entităţii.
+
+În condiţiile în care datele valorice (preţul unitar şi valoarea) nu se înscriu în Avizul de însoţire a mărfii, aceste date trebuie să se regăsească într-un alt document justificativ care stă la baza înregistrării în contabilitate a valorii bunurilor.
+
+În cazul transferului de bunuri între gestiunile aceleiaşi entităţi, dispersate teritorial, precum şi al transportului bunurilor cedate cu titlu gratuit (mostre, bunuri date pentru stimularea vânzării sau testări la locul de desfacere, premii, materiale promoţionale), Avizul de însoţire a mărfii va purta menţiunea “Fără factură”, după caz.
+
+Pe Avizul de însoţire a mărfii emis pentru valori materiale trimise pentru prelucrare la terţi se face menţiunea “Pentru prelucrare la terţi”.
+
+În alte situaţii decât cele prevăzute mai sus se face menţiunea cauzei pentru care s-a întocmit Avizul de însoţire a mărfii şi nu factura.
+
+[LISTA DE INVENTARIERE]
+Lista de inventariere serveşte ca:
+
+– document pentru inventarierea bunurilor aflate în gestiunile entităţii;
+
+– document pentru stabilirea lipsurilor şi plusurilor de bunuri (imobilizări, stocuri materiale) şi a altor valori (elemente de trezorerie );
+
+Lista de inventariere serveşte ca:
+
+– document pentru inventarierea bunurilor aflate în gestiunile entităţii;
+
+– document pentru stabilirea lipsurilor şi plusurilor de bunuri (imobilizări, stocuri materiale) şi a altor valori (elemente de trezorerie );
+
+– document justificativ de înregistrare în evidenţa magaziilor (depozitelor) şi în contabilitate a plusurilor şi minusurilor constatate;
+
+– document pentru întocmirea Registrului-inventar;
+
+– document pentru determinarea ajustărilor pentru depreciere/pierdere de valoare;
+
+– document centralizator al operaţiunilor de inventariere.
+
+Se întocmeşte la locurile de depozitare, anual sau în situaţiile prevăzute de dispoziţiile legale, de către comisia de inventariere, pe gestiuni, conturi de valori materiale, eventual grupe sau subgrupe, separat pentru bunurile entităţii şi separat pentru cele aparţinând altor entităţi, aflate asupra personalului entităţii la data inventarierii, primite pentru prelucrare şi se semnează de către membrii comisiei de inventariere şi de către gestionar.
+
+În cazul bunurilor primite în custodie şi/sau consignaţie, pentru prelucrare, o copie a Listei de inventariere se înaintează entităţii care deţine bunurile respective.
+
+Listele de inventariere întocmite pentru bunurile aparţinând altor entităţi trebuie să conţină, pe lângă elementele comune (felul materialului sau produsului finit, cantitatea, valoarea), numărul şi data actului de predare-primire.
+
+
+=====================================
+3. AVIZUL DE INSOTIRE A MARFII
+    3.1 Serveste ca:
+        - document de insotire a marfii pe timpul transportului, dupa caz;
+        - document ce sta la baza intocmirii facturii, dupa caz; 
+        - dispozitie de transfer al valorilor materiale de la o gestiune la alta, 
+          dispersate teritorial, ale aceleiasi entitati; 
+        - document de primire in gestiune, dupa caz; 
+        - document de descarcare din gestiune a bunurilor cedate cu titlu gratuit. 
+ 
+    3.2 Se intocmeste in 2 sau mai multe exemplare
+
+- document ce sta la baza intocmirii facturii, dupa caz;
+- dispozitie de transfer al valorilor materiale de la o gestiune la alta, dispersate teritorial, ale aceleiasi entitati;
+- document de primire in gestiune, dupa caz;
+- document de descarcare din gestiune a bunurilor cedate cu titlu gratuit.
+
+ 
+
+ 
+Avizul de insotire se intocmeste, in doua sau mai multe exemplare, de catre unitatile care nu au posibilitatea intocmirii facturii in momentul livrarii produselor, marfurilor sau altor valori materiale, precum si in alte situatii stabilite prin procedurile proprii ale unitatii.
+ 
+Retineti, totodata, ca avizul se intocmeste pe baza dispozitiei de livrare folosita pentru eliberarea din magazie a produselor, marfurilor sau a altor valori materiale destinate vanzarii, a bunurilor cedate cu titlu gratuit sau date pentru stimularea vanzarii, dupa caz si sta la baza intocmirii avizului de insotire a marfii sau a facturii, dupa caz.
+ 
+ 
+ 
+
+    Situatii in care trebuie intocmit avizul: 
+        1. livrarea de bunuri in cadrul operatiunilor de vanzare-cumparare, dar numai in situatia in care furnizorul nu are posibilitatea emiterii facturii in momentul livrarii, caz in care se inscrie mentiunea urmeaza factura;
+        
+        2. expedierea de bunuri in vederea prelucrarii acestora de catre terti si returnarea de catre procesatori a bunurilor prelucrate, proprietarului acestora, caz in care se inscrie mentiunea pentru prelucrare la terti;
+        
+        3. transferul de bunuri intre gestiuni, dispersate teritorial, caz in care se inscrie mentiunea transfer intre gestiuni;
+        
+        4. expedierea produselor finite pentru vanzarea la pret cu amanuntul, prin magazinele proprii, moment in care produsele finite expediate isi schimba incadrarea si devin marfuri, caz in care se inscrie mentiunea transfer produse finite;
+        
+        5. expedierea, in mod gratuit, de produse sau piese de schimb in cadrul perioadei de garantie a produselor, caz in care se inscrie mentiunea pentru inlocuire in perioda de garantie;
+        
+        6. preluarea de bunuri cu rol de exponate pentru participarea la targuri si expozitii interne si internationale, caz in care se inscrie mentiunea exponat pentru manifestarea expozitionala...;
+        
+        7. cedarea cu titlu gratuit a bunurilor de mica valoare, in cadrul actiunilor de sponsorizare, reprezentare, caz in care se inscrie mentiunea pentru sponsorizare, pentru mecenat pentru reprezentare
+        
+        8. acordarea de premii, caz in care se inscrie mentiunea fara factura;
+        
+        9. distribuirea de materiale promotionale, caz in care se inscrie mentiunea fara factura;
+        
+        10. acordarea in mod gratuit de bunuri, reprezentand:
+        - mostre in cadrul campaniilor promotionale;
+        - testere pentru incercarea produselor;
+        - consumabile pentru demonstratii la punctele de vanzare;
+        - produse pentru stimularea vanzarilor. 
+
+        Pe avizele astfel intocmite se inscrie mentiunea fara factura, acordare gratuita, in scop ....
+        Pe avizul de insotire a marfii emis pentru valori materiale trimise pentru prelucrare la terti se face mentiunea "Pentru prelucrare la terti".
+        In plus, in cazul transferului de bunuri intre gestiunile aceleiasi unitati, dispersate teritorial, precum si al transportului bunurilor cedate cu titlu gratuit (mostre, bunuri date pentru stimularea vanzarii sau testari la locul de desfacere, premii, materiale promotionale etc.) avizul de insotire a marfii va purta mentiunea "Fara factura", dupa caz.
+        In celelalte situatii decat cele prevazute mai sus, se face mentiunea cauzei pentru care s-a intocmit avizul de insotire a marfii si nu factura.
+
+
+
+
+Din cele 10 situatii enumerate, factura se intocmeste doar pentru livrarea de bunuri in cadrul operatiunilor de vanzare-cumparare care au loc intre un furnizor si un cumparator.
+ 
+Factura poate fi emisa de furnizor imediat dupa livrare, dar nu mai tarziu de data de 15 a lunii urmatoare livrarii efectuate. Factura astfel emisa trebuie sa cuprinda o referire la numarul si data avizului care a stat la baza realizarii livrarii respective. La baza emiterii unei facturi pot sta mai multe avize de insotire intocmite pe parcursul unei luni calendaristice. 
+Baza legala pentru avizul de insotire a marfii 
+ 
+Avizul de insotire a marfii este un document financiar-contabil reglementat prin O.M.F.P. nr. 2.634 din 5 noiembrie 2015 privind documentele financiar-contabile, publicat in M.Of. nr. 910 din 01 ianuarie 2016.
+
+=========================
+NOTA DE RECEPTIE SI CONSTATARE DE DIFERENTE (Cod 14-3-1A)
+
+1. a) Serveste ca:
+
+- document pentru receptia bunurilor aprovizionate;
+- document justificativ pentru incarcare in gestiune;
+- document justificativ de inregistrare in contabilitate.
+
+b) Se foloseste ca document de receptie obligatoriu numai in cazul:
+
+- bunurilor materiale cuprinse intr-o factura sau aviz de insotire a marfii, care fac parte
+din gestiuni diferite;
+- bunurilor materiale primite spre prelucrare, in custodie sau in pastrare;
+- bunurilor materiale procurate de la persoane fizice;
+- bunurilor materiale care sosesc neinsotite de documente de livrare;
+- bunurilor materiale care prezinta diferente la receptie;
+- marfurilor intrate in gestiunile la care evidenta se tine la pret de vanzare.
+
+c) In alte cazuri decat cele mentionate la lit. b), receptia si incarcarea in gestiune, dupa caz, si inregistrarea in contabilitate se fac pe baza documentului de livrare care insoteste transportul (factura, avizul de insotire a marfii etc.).
+(...)"

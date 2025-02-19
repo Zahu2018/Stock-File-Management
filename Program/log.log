@@ -1,0 +1,11 @@
+
+13.01.2022 - v12
++ add: coloane in FM: necesar si stoc necesar
+* change: creaza_fise_magazie_1; coloane necesar si stoc necesar
+
+12.01.2022 - v11
++ add: Intrare/Iesire
+- fix: ultima linie in afara fisierului = 3 linii
+
+xx.xx.2021 - v10
+* modular

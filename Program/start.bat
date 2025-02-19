@@ -1,0 +1,1 @@
+python creaza_fise_magazie_1.py

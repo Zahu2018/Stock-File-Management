@@ -1,0 +1,79 @@
+[menu_file]
+fil = Stock Files
+cfm = Create File Stock
+cra = Create Glue Report
+crs = Create Stock Report
+cNB = Create NIR and BC
+chl = Limba Romana
+
+[menu_calculus]
+cal = Calculations
+cap = Loos Calculus
+tra = Transformation 
+
+[menu_settings]
+se = Settings
+he = Help
+
+[menu_help]
+hl = Help
+ca = Accountability
+di = Dictionary
+or = Order 2634 from 2015
+tr = Send Back
+co = Contacts
+io = Input/Output
+
+[program]
+date = Date
+docu = Document
+inpu = Input
+outp = Output
+cant = Quantity
+save = Save
+opfi = Open File
+opfo = Open Folder
+seep = See Picture
+opne = Open Necessary
+inou = Input/Output
+orde = Orders
+info = Information
+inf1 = Input =\n2 date and \n2 documents separated by "#$".
+inf2 = Choose an option =\nINPUT or OUTPUT\nor\nINPUT/OUTPUT
+inf3 = Input quantity (only numnbers)!\nUse "." (dot) for decimals.
+inf4 = Not yet implemented.
+inf5 = Pentru limba romana reporniti programul
+inf6 = For english language restart the program
+pzi = Zoom in
+pzo = Zoom out
+
+[days]
+sun = Sunday
+mon = Monday
+thu = Thuesday
+wed = Wednesday
+thr = Thursday
+fri = Friday
+sat = Saturday
+
+[cfmag]
+adsc = Input:\n2 date si \n2 documents separated by "#$".
+nece = Necessary
+intr = Input
+nec = Create stock file - Subtraction and Necessary
+inf = Information
+rez = New file stock was created
+cfm = Create new stock file
+cat = Category
+den = Material name
+pro = Properties
+cod = Cod
+can = Quantity
+dat = Date
+doc = Document
+bcf = Create a new stock file
+su = Don't use:\n/  \\  :  *  ?  "  <  >  |\nReplace them with a space!
+ex = The file exist. Look for it.
+cc = All fielsd has to be filled!
+um = U.M.
+ii = Intrare/Iesire

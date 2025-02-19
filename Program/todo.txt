@@ -1,0 +1,24 @@
+Some paths in python files has to be changed according to needs of user.
+1. Desktop path, where bc.txt and nir.txt are deployed.
+   file = ni_bon_consum.py (change here)
+   
+
+OLY/NER
+1 yard = 0.9144 mtl
+latime = 1.48      
+
+Fodera Ecoanil Bianco cu defecte = 32.16 m2 (21.11.2022)
+
+intrare/iesire   #$
+11.01.2023#$12.01.2023
+
+
+
+
+
+
+
+
+
+
+

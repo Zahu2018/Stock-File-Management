@@ -1,0 +1,7 @@
+ LISTA CU MATERIALE LIPSA
+ ------------------------
+P CS MOO 124 PARS      -7,58 mp
+EG PUM TR235 001      -12258 buc
+EC COMP PUM CL 033    - 1952 buc
+
+ 

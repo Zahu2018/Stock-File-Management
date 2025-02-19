@@ -1,0 +1,78 @@
+[menu_file]
+fil = Fise de Magazie
+cfm = Creaza Fise Magazie
+cra = Creaza Raport Adezivi
+crs = Creaza Raport Stocuri
+cNB = Creaza NIR si BC
+chl = English Language
+
+[menu_calculus]
+cal = Calcule
+cap = Calcul Pierderi
+tra = Transformari
+
+[menu_settings]
+se = Setari
+he = Ajutor
+
+[menu_help]
+hl = Ajutor
+ca = Contabilitate
+di = Dictionar
+or = Ordin 2634 din 2015
+tr = De Trimis Inapoi
+co = Contacte
+io = Intrari/Iesiri
+
+[program]
+date = Data
+docu = Document
+inpu = Intrare
+outp = Iesire
+cant = Cantitate
+save = Salveaza
+opfi = Deschide Fisierul
+opfo = Deschide Folderul
+seep = Vezi Imaginea
+opne = Deschide Necesar
+inou = Intrare/Iesire
+orde = Comenzi
+info = Informatie
+inf1 = Introduceti =\n2 date si \n2 documente separate de "#$".
+inf2 = Alege o optiune =\nINTRARE sau IESIRE\nsau\nINTRARE/IESIRE'
+inf3 = Introduceti Cantitatea (doar cifre)!\nFolositi  "." (punct)  pentru zecimale.
+inf4 = Nu este implementat inca.
+inf5 = For english language restart the program
+pzi = Mareste
+pzo = Micsoreaza
+
+[days]
+sun = Duminica
+mon = Luni
+thu = Marti
+wed = Miercuri
+thr = Joi
+fri = Vineri
+sat = Sambata
+
+[cfmag]
+adsc = Introduceti:\n2 date si \n2 documente separate de "#$".
+nece = Necesar
+intr = Intrare
+nec = Creaza fise de magazie - Cu scadere si Necesar
+inf = Informare
+rez = Am creat fise de magazie
+cfm = Creaza fise de magazie
+cat = Categorie
+den = Denumire material
+pro = Proprietati
+cod = Cod
+can = Cantitate
+dat = Data
+doc = Document
+bcf = Creaza o noua fise de magazie
+su = Nu folositi urmatoarele semne:\n/  \\  :  *  ?  "  <  >  |\nInlocuiti-le cu un spatiu!
+ex = Fisierul exista deja. Cautati-l in lista.
+cc = Completarea tuturor campurilor este obligatorie!
+um = U.M.
+ii = Intrare/Iesire
